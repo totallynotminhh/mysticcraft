@@ -2,7 +2,7 @@
 # MysticCraft
 
 Yep, like the description says, "A lightweight modpack designed to be like RLCraft."
-This modpack can run on almost every potato laptop (I'm not sure) manufactured after 2011. Whether you have an office laptop or a newer but not designed for gaming, you can still pretty much enjoy the modpack in 60-120 FPS if you know how to optimize your device for gaming. Developed since June 2023, originally under the name MysteryCraft, has changed over the course of a year. Welp, that is enough chit-chatting. Let's cut to the chase.
+This modpack can run on almost every potato laptop, even your mom's old work laptop! Whether you have an office laptop or a newer but not designed for gaming, you can still pretty much enjoy the modpack in 60-120 FPS if you know how to optimize your device for gaming. Developed since June 2023, originally under the name MysteryCraft, has changed over the course of a year. Welp, that is enough chit-chatting. Let's cut to the chase.
 
 System Requirements:
 CPU: A Dual core processor, 2GHz or higher <br>
