@@ -15,5 +15,5 @@ If you want a wiki or want to search something about modpack, just search your p
 
 That's it for now, enjoy the modpack!
 
-By the way, FAQs and Documentation are coming soon!
+Check the RLCraft wiki for documentation!
 
