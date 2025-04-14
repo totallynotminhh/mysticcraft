@@ -10,10 +10,7 @@ GPU: Runs fine with intergrated graphics, unless you want to play with shaders <
 RAM: 4GB of RAM or higher is recommended <br>
 OS: Windows 7 or higher (must be 64-bit) <br>
 
-Additional Note:
-If you want a wiki or want to search something about modpack, just search your problem and add "RLCraft" after your question, because it is designed to be like RLCraft.
-
 That's it for now, enjoy the modpack!
 
-Check the RLCraft wiki for documentation!
+And by the way, check the RLCraft wiki for documentation!
 
